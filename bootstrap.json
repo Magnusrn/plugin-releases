@@ -4,7 +4,7 @@
 			"name": "kitschObjectHider.jar",
 			"plugins": ["net.runelite.client.plugins.kitschobjecthider.KitschObjectHiderPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/magnusrn/plugin-releases/blob/main/Releases/kitschObjectHider.jar",
+			"path": "https://github.com/Magnusrn/plugin-releases/raw/main/Releases/kitschObjectHider.jar",
 			"hash": "8b05b439b458deeb8a9a65a8229e8d3cab76d53123e6345ecbae153e02567c2f",
 			"description": "Hides objects from the game based on ID, modified from adams Fossil Island plugin."
 		},
@@ -12,7 +12,7 @@
 			"name": "kitschVmNotifier.jar",
 			"plugins": ["net.runelite.client.plugins.kitschVmNotifier.kitschVmNotifier"],
 			"version": "0.01",
-			"path": "https://github.com/magnusrn/plugin-releases/blob/main/Releases/kitschVmNotifier.jar",
+			"path": "https://github.com/Magnusrn/plugin-releases/raw/main/Releases/kitschVmNotifier.jar",
 			"hash": "403c19a910b241f0593e8a61175999dee61c601c4814a329418236df38009da5",
 			"description": "Notifies on stability change within Volcanic Mine 6 mins or prior for A role and B/C role"
 		}
