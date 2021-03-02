@@ -15,6 +15,14 @@
 			"path": "https://github.com/Magnusrn/plugin-releases/raw/main/Releases/kitschVmNotifier.jar",
 			"hash": "403c19a910b241f0593e8a61175999dee61c601c4814a329418236df38009da5",
 			"description": "Notifies on stability change within Volcanic Mine 6 mins or prior for A role and B/C role"
+		},
+		{
+			"name": "kitschCoxTimersLogger.jar",
+			"plugins": ["net.runelite.client.plugins.kitschcoxlogger.kitschCoxLoggerPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/Magnusrn/plugin-releases/raw/main/releases/kitschCoxTimersLogger.jar",
+			"hash": "9bc7532d7f77a6e38afa661b39439638808029e808dcb9ae12e7cb17521b54d7",
+			"description": "Saves raid timers to a text file in .runelite/CoxTimersLogs for each raid, requires de0 timers"
 		}
 	]
 }
