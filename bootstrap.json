@@ -28,7 +28,7 @@
 			"name": "kitschInfernoSplitsLogger.jar",
 			"plugins": ["net.runelite.client.plugins.kitschinfernologger.kitschInfernoLoggerPlugin"],
 			"version": "0.01",
-			"path": "",
+			"path": "https://github.com/Magnusrn/plugin-releases/raw/main/releases/kitschInfernoSplitsLogger.jar",
 			"hash": "36e5d499a3a109caac0957920f75b6e72a5aa1a8dbc9e380b22eddbf357507b6",
 			"description": "Saves Inferno splits timers to a text file in .runelite/InfernoTimerLogs for each Inferno KC"
 		}
