@@ -23,7 +23,7 @@
 			"path": "https://github.com/Magnusrn/plugin-releases/raw/main/releases/kitschCoxTimersLogger.jar",
 			"hash": "9bc7532d7f77a6e38afa661b39439638808029e808dcb9ae12e7cb17521b54d7",
 			"description": "Saves raid timers to a text file in .runelite/CoxTimersLogs for each raid, requires de0 timers"
-		}
+		},
 		{
 			"name": "kitschInfernoSplitsLogger.jar",
 			"plugins": ["net.runelite.client.plugins.kitschinfernologger.kitschInfernoLoggerPlugin"],
