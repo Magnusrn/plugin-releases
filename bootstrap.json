@@ -24,5 +24,13 @@
 			"hash": "9bc7532d7f77a6e38afa661b39439638808029e808dcb9ae12e7cb17521b54d7",
 			"description": "Saves raid timers to a text file in .runelite/CoxTimersLogs for each raid, requires de0 timers"
 		}
+		{
+			"name": "kitschInfernoSplitsLogger.jar",
+			"plugins": ["net.runelite.client.plugins.kitschinfernologger.kitschInfernoLoggerPlugin"],
+			"version": "0.01",
+			"path": "",
+			"hash": "36e5d499a3a109caac0957920f75b6e72a5aa1a8dbc9e380b22eddbf357507b6",
+			"description": "Saves Inferno splits timers to a text file in .runelite/InfernoTimerLogs for each Inferno KC"
+		}
 	]
 }
